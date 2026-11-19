@@ -1,0 +1,30 @@
+{
+  "iMobile_Assistant": {
+    "name": "iMobile_Assistant",
+    "status": "ACTIVE",
+    "registered_at": "2026-11-01 09:00:00",
+    "revoked_at": null,
+    "description": "ICICI Official Mobile Banking Conversational Agent"
+  },
+  "Pockets_Bot": {
+    "name": "Pockets_Bot",
+    "status": "ACTIVE",
+    "registered_at": "2026-11-05 14:15:00",
+    "revoked_at": null,
+    "description": "ICICI Digital Wallet Assistant"
+  },
+  "ICICI_Wealth_AI": {
+    "name": "ICICI_Wealth_AI",
+    "status": "ACTIVE",
+    "registered_at": "2026-11-10 11:30:00",
+    "revoked_at": null,
+    "description": "ICICI Wealth Management Assistant"
+  },
+  "Legacy_Chatbot": {
+    "name": "Legacy_Chatbot",
+    "status": "REVOKED",
+    "registered_at": "2025-08-12 10:00:00",
+    "revoked_at": "2026-11-15 17:45:22",
+    "description": "Deprecated Customer Support Bot (Decommissioned)"
+  }
+}
